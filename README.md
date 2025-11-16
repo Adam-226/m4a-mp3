@@ -87,12 +87,6 @@ python convert_audio.py --help
 | medium | 192kbps | Medium | Daily listening |
 | low | 128kbps | Small | Save space/Podcasts |
 
-## Notes
-
-- Output files will overwrite existing files with the same name
-- WAV files are much larger than MP3
-- Original .m4a files are not deleted
-
 ## License
 
 MIT License
